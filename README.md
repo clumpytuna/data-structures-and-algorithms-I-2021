@@ -7,7 +7,7 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Lectures Materials](/lectures/materials.md)
 
-- [Results] ()
+- Results
 
 #### Homework
 - Coming soon!
