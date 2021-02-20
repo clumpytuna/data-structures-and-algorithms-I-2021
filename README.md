@@ -5,15 +5,13 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Course program](/program.md)
 
-- [Lectures & Seminars materials](/materials/materials.md)
+- [Lectures & practices materials](/materials/materials.md)
 
-
-- Results
 
 #### Homework
 - Coming soon!
 
-#### Materials:
+#### Supporting Materials:
 
 Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
 
