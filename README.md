@@ -5,7 +5,8 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Course program](/program.md)
 
-- [Lectures Materials](/lectures/materials.md)
+- [Lectures & Seminars materials](/materials/materials.md)
+
 
 - Results
 
