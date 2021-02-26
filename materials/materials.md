@@ -9,3 +9,14 @@
 - [Practice Notes](Practice-1-Introduction.pdf)
 - [Practice Video](https://drive.google.com/file/d/1ov-bp3M8Q2sjEzpqkcbsoXOJxnm-ZzJB/view?usp=sharing)
 
+
+##### 2. Stack using an array, using a linked list. Keeping the minimum in Stack. Correct Brackets Sequences. 
+
+###### Lecture
+- [Lecture Slides](Lecture-2-Stack.pdf)
+- [Lecture Notes](Lecture-2-Stack-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1u1zZplToKG-ZjMN6z3ggQ3CAZovT4OT4/view?usp=sharing)
+###### Workshop
+- [Practice Notes](Practice-2-Notes-Stack.pdf)
+- [Practice Video](https://drive.google.com/file/d/1M0vZGcyHJMgbMrC7zRDEJXJXoIJrUybA/view?usp=sharing)
+

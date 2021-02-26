@@ -7,9 +7,11 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Lectures & practices materials](/materials/materials.md)
 
+- [Results](https://docs.google.com/spreadsheets/d/1y64zLuW_gzcHhovapxaTmpZBLJJldIJtJb5paGbvseM/edit?usp=sharing)
+
 
 #### Homework
-- Coming soon!
+- [Binary Search](https://contest.yandex.ru/contest/25231/standings) | Deadline 23:59 26.02.2020
 
 #### Supporting Materials:
 
