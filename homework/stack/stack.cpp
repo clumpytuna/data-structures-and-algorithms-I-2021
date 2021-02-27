@@ -41,7 +41,7 @@ class Stack {
     }
 
  private:
-    class Node {
+    struct Node {
         // Your code goes here...
     };
 
