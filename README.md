@@ -17,7 +17,7 @@ Welcome to the Data Structures and Algorithms I course!
 
 #### Supporting Materials:
 
-###### Tools preferences
+###### Linters preferences
 
 - [clang-tidy preferences](.clang-tidy)
 - [clang-format preferences](.clang-format)
