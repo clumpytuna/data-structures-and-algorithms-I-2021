@@ -14,11 +14,20 @@ Welcome to the Data Structures and Algorithms I course!
 - [Binary Search](https://contest.yandex.ru/contest/25231/standings) | Deadline 23:59 26.02.2020
 
 - [Stack](https://contest.yandex.ru/contest/25286/standings/) | Deadline 23:59 05.03.2020
+
 #### Supporting Materials:
 
-Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+###### Tools preferences
 
-Introduction to Algorithms, Third Edition | The MIT Press
+- [clang-tidy preferences](.clang-tidy)
+- [clang-format preferences](.clang-format)
+
+###### Books
+- Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+
+- Introduction to Algorithms, Third Edition | The MIT Press
+
+
 
 #### Collaboration Policy
 
