@@ -9,6 +9,8 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Results](https://docs.google.com/spreadsheets/d/1y64zLuW_gzcHhovapxaTmpZBLJJldIJtJb5paGbvseM/edit?usp=sharing)
 
+- [Code-review](/code-review.md)
+
 
 #### Homework
 - [Binary Search](https://contest.yandex.ru/contest/25231/standings) | Deadline 23:59 26.02.2020
