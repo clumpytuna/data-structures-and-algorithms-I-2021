@@ -15,6 +15,7 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Stack](https://contest.yandex.ru/contest/25286/standings/) | Deadline 23:59 05.03.2020
 
+- [Simple Sorting](https://contest.yandex.ru/contest/25569/standings/) | Deadline 23:59 12.03.2020
 #### Supporting Materials:
 
 ###### Linters preferences
