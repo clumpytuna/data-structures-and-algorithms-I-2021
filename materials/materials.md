@@ -20,3 +20,11 @@
 - [Practice Notes](Practice-2-Notes-Stack.pdf)
 - [Practice Video](https://drive.google.com/file/d/1M0vZGcyHJMgbMrC7zRDEJXJXoIJrUybA/view?usp=sharing)
 
+##### 3. Sortings. Insertion Sort, Binary Insertion Sort, lower bound for number of comparisons in sorting.
+
+###### Lecture
+- [Lecture Notes](Lecture-3-Sortings-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1vI9HaE89erXtPAYT_q3wZnwdDznP77vJ/view?usp=sharing)
+###### Workshop
+- [Practice Video](https://drive.google.com/file/d/1VBy_xPF0jY08R2mu-IOyBIHzZG_pL-hm/view?usp=sharing)
+
