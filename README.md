@@ -13,7 +13,7 @@ Welcome to the Data Structures and Algorithms I course!
 
 
 #### Homework
-| Contest                                                               | Contest Deadline   | Problem to code review| Code-Review Attempts   | Code Review Submissions Deadline|
+| Contest                                                               | Contest Deadline   | Code-Review Problem   | Code-Review Attempts   | Code Review Submissions Deadline|
 | --------------------------------------------------------------------- |:------------------:| :--------------------:| :---------------------:| :------------------------------:|
 | [Binary Search](https://contest.yandex.ru/contest/25231/standings)    | 23:59 26.02        |         Random        |          1             | 23:59 28.02                     |
 | [Stack](https://contest.yandex.ru/contest/25286/standings/)           | 23:59 05.03        |         Stack         |          4             | 23:59 19.03                     |
