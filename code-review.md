@@ -40,8 +40,8 @@ g++ solution.cpp -fsanitize=address,undefined -fno-sanitize-recover=all -std=c++
 [Google C++ Style Guide]: <https://google.github.io/styleguide/cppguide.html>
 [adress sanitazer]: https://github.com/google/sanitizers/wiki/AddressSanitizer
 [CLion]: https://www.jetbrains.com/clion
-[CLion-tidy]: https://www.jetbrains.com/help/clion/clang-tidy-checks-support.html
-[CLion-format]: https://www.jetbrains.com/help/clion/clangformat-as-alternative-formatter.html
+[CLion clang-tidy]: https://www.jetbrains.com/help/clion/clang-tidy-checks-support.html
+[CLion clang-format]: https://www.jetbrains.com/help/clion/clangformat-as-alternative-formatter.html
 [code-review form]: https://docs.google.com/forms/d/e/1FAIpQLSe7e_sq0AIppkzpWojK08FzfrEoW3gL8inj3Z7oNt9jqXRv1Q/viewform
 [results table]: https://docs.google.com/spreadsheets/d/1y64zLuW_gzcHhovapxaTmpZBLJJldIJtJb5paGbvseM/edit#gid=0
 [clang-format]: https://clang.llvm.org/docs/ClangFormat.html
