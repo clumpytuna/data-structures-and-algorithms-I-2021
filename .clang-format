@@ -1,9 +1,11 @@
 BasedOnStyle: Google
----
-Language: Cpp
+IndentWidth: 4
+AccessModifierOffset: -4
+ColumnLimit: 100
 AllowShortFunctionsOnASingleLine: None
 AllowShortIfStatementsOnASingleLine: false
-AllowShortLambdasOnASingleLine: Empty
-DerivePointerAlignment: false
-PointerAlignment: Left
-SortIncludes: false
+AllowShortLoopsOnASingleLine: false
+DerivePointerAlignment: true
+KeepEmptyLinesAtTheStartOfBlocks: true
+SortIncludes: true
+
