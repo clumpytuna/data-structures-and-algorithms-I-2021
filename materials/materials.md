@@ -28,3 +28,9 @@
 ###### Workshop
 - [Practice Video](https://drive.google.com/file/d/1VBy_xPF0jY08R2mu-IOyBIHzZG_pL-hm/view?usp=sharing)
 
+##### 4. Quick Sort. Master theorem.
+
+###### Lecture
+- [Lecture Notes](Lecture-4-Quick-Sort-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1bE16pzjtmBpwV3zWHPp8KUeAoh4XHkHt/view?usp=sharing)
+
