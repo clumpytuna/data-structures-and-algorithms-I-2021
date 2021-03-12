@@ -58,7 +58,7 @@ FORCE)
 
 
 - Finally, to run executable with ASAN, choose ASAN in right upper corner
-  ![img.png](set-up-clion.png)
+  ![img.png](set-up-clion.jpeg)
 
 [//]: #
 [Google C++ Style Guide]: <https://google.github.io/styleguide/cppguide.html>
