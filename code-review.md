@@ -1,22 +1,3 @@
-# Code-review
-
-## Code-style
-
-To write the code, use [Google C++ Style Guide].
-
-## Code-review passing algorithm
-
- 1. Pass tests in the contest.
- 2. Fill [code-review form]. Remarks will be sent to the email address specified in the form.
- 3. Fix the remarks and **send the fixed solution again to the contest**. If the solution is not sent to the contest, it will not be checked.
- 4. Send the **link to the successfully passed solution** in a reply email.
-
-**N.B.** As you progress through the code-review, new remarks may appear (if the code has a significant number of flaws, then the reviewer may limit himself to an incomplete list of comments). The number of iterations and the time during which you can correct the solution is limited. On average, one iteration will take about 5 days. 
-
-## Assessment
-
-The final score is based on the last fixed solution. The score depends on the number of remaining errors, as well as the nature of the errors themselves. For example, incorrect memory management (double free, memory leak) or the use of C-style arrays leads to a more significant reduction in the evaluation than poor logical organization of the code or poor naming of variables.
-
 ## Tips for passing code-review & contest verification
 ### Using linters
 
