@@ -27,7 +27,7 @@ clang-format -i solution.cpp
 ```
 The same configuration files are used in the context. Note that the configuration files may be updated from time to time.
 
-### Using adress sanitizer
+### Using address sanitizer
 In order to catch memory leaks, array outflows, uninitialized variables, etc., test your program using [adress sanitazer]: 
 ```
 g++ solution.cpp -fsanitize=address,undefined -fno-sanitize-recover=all -std=c++17 -O2 -Wall -Werror -Wsign-compare -o solution
