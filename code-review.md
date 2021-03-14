@@ -7,7 +7,7 @@ To write the code, use [Google C++ Style Guide].
 ## Code-review passing algorithm
 
  1. Pass tests in the contest.
- 2. Fill [code-review form]. Remarks will be sent to the email address specified in the form.
+ 2. Fill [code-review form]. Remarks will be sent to the email address specified in the form. If there is a single problem in contest for code review you can send only this problem in the form, if there is a random problem you need to send **all!** problems to the form one by one.
  3. Fix the remarks and **send the fixed solution again to the contest**. If the solution is not sent to the contest, it will not be checked.
  4. Send the **link to the successfully passed solution** in a reply email.
 

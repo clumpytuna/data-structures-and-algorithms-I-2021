@@ -9,10 +9,15 @@ Welcome to the Data Structures and Algorithms I course!
 
 - [Results](https://docs.google.com/spreadsheets/d/1y64zLuW_gzcHhovapxaTmpZBLJJldIJtJb5paGbvseM/edit?usp=sharing)
 
-- [How to pass code-review](/code-review.md)
+- [Code review status](https://docs.google.com/spreadsheets/u/1/d/1PXopK4ENqco1RgldAkvU9P8sTo0grGuOQbBGZkVLyoY/edit?usp=drive_web&ouid=105380560482968407631)
 
 
 #### Homework
+
+###### Code review
+
+- [How to pass code-review](/code-review.md)
+
 | Contest                                                               | Contest Deadline   | Code-Review Problem   | Code-Review Attempts   | Code Review Submissions Deadline|
 | --------------------------------------------------------------------- |:------------------:| :--------------------:| :---------------------:| :------------------------------:|
 | [Binary Search](https://contest.yandex.ru/contest/25231/standings)    | 23:59 26.02        |         Random        |          1             | 23:59 28.02                     |
