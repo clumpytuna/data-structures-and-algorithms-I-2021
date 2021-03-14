@@ -20,46 +20,7 @@ The final score is based on the last fixed solution. The score depends on the nu
 ## Tips for passing code-review & contest verification
 ### Using linters
 
-Before sending code, we recommend checking the code using [clang-format] and [clang-tidy] with configuration files [.clang-format], [.clang-tidy]. In order for the utilities to find the configuration files, it is enough to put them in one of the parent directories or in the current directory. Commands for running utilities:
-```
-clang-tidy solution.cpp -- -std=c++17
-clang-format -i solution.cpp 
-```
-The same configuration files are used in the context. Note that the configuration files may be updated from time to time.
-
-### Using address sanitizer
-In order to catch memory leaks, array outflows, uninitialized variables, etc., test your program using [address sanitizer]: 
-```
-g++ solution.cpp -fsanitize=address,undefined -fno-sanitize-recover=all -std=c++17 -O2 -Wall -Werror -Wsign-compare -o solution
-```
-
-### Configuring CLion
-[CLion] allows you to automatically run a code check for compliance with the style guide. Moreover, you can run your program using ASAN to check memory-managements bugs.
-
-#### Set up clang-format & clang-tidy
-To set up linters, just put the [.clang-format] and [.clang-tidy] configuration files in the project directory, and enable clang-format ("Enable ClangFormat" button in right bottom corner). If there are problems, see [CLion clang-tidy], [CLion clang-format].
-
-#### Set up address sanitizer
-- Add the following flags to CMake file:
-
-```cmake
-set(CMAKE_CXX_STANDARD 17)
-
-set(CMAKE_CXX_FLAGS "-Wall -Werror -Wsign-compare")
-
-set(CMAKE_CXX_FLAGS_ASAN "-g -fsanitize=address,undefined -fno-sanitize-recover=all"
-CACHE STRING "Compiler flags in asan build"
-FORCE)
-```
-- Go to **Settings** -> **Build, Execution, Deployment** -> **CMake**
-
-
-- Press plus button, then print ASAN in the fields
-
-
-- Finally, to run executable with ASAN, choose ASAN in right upper corner
-  
-  ![img.png](set-up-clion.jpeg)
+Before sending code, we recommend checking the code using [clang-format] and [clang-tidy]. See [here](clion-set-up.md) how to set up linters properly.
 
 [//]: #
 [Google C++ Style Guide]: <https://google.github.io/styleguide/cppguide.html>
