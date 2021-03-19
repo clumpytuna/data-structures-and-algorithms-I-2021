@@ -37,3 +37,5 @@
 ##### 5. Merge Sort. Inversions counting.
 - [Lecture Notes](Lecture-5-Merge-Sort-Notes.pdf)
 - [Lecture Video](https://drive.google.com/file/d/1cYsYA6-yq4d4X4MZrWwG3Dk199PgmsN1/view?usp=sharing)
+
+-[Practice Video](https://drive.google.com/file/d/1QY9hpfaUA_gK028lL_OgKPB8YG1pxnbr/view?usp=sharing)
