@@ -23,8 +23,8 @@ Welcome to the Data Structures and Algorithms I course!
 | [Binary Search](https://contest.yandex.ru/contest/25231/standings)    | 23:59 26.02        |         Random        |          1             | 23:59 28.02                     |
 | [Stack](https://contest.yandex.ru/contest/25286/standings/)           | 23:59 05.03        |         Stack         |          4             | 23:59 19.03                     |
 | [Simple Sorting](https://contest.yandex.ru/contest/25569/standings/)  | 23:59 12.03        |         Random        |          2             | 23:59 26.03                     |
-| [Quick Sort](https://contest.yandex.ru/contest/25678/standings/)      | 23:59 19.03        |         QuickSort     |          x             | 23:59 04.04                     |
-
+| [Quick Sort](https://contest.yandex.ru/contest/25678/standings/)      | 23:59 19.03        |         QuickSort     |          3             | 23:59 04.04                     |
+| [Merge Sort](https://contest.yandex.ru/contest/25985/problems/A/)     | 23:59 26.03        |         MergeSort     |          x             | 23:59 11.04                     |
 #### Supporting Materials:
 
 ###### Linters preferences
