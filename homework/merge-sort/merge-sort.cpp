@@ -26,7 +26,7 @@ struct CustomComparator {
  * Delete this comment before submitting.
  */
 template <typename T, typename Compare = CustomComparator<T>>
-size_t Merge(std::vector<T>& array, size_t first_begin, size_t first_end, size_t second_begin, size_t second_end, Compare comp = Compare()) {
+void Merge(std::vector<T>& array, size_t first_begin, size_t first_end, size_t second_begin, size_t second_end, Compare comp = Compare()) {
   // You code goes here ...
 }
 
