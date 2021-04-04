@@ -3,7 +3,7 @@
 template <typename T>
 struct CustomComparator {
   bool operator()(const T& lhs, const T& rhs) {
-    // You code goes here ...
+    // Your code goes here ...
   }
 };
 
@@ -27,7 +27,7 @@ struct CustomComparator {
  */
 template <typename T, typename Compare = CustomComparator<T>>
 void Merge(std::vector<T>& array, size_t first_begin, size_t first_end, size_t second_begin, size_t second_end, Compare comp = Compare()) {
-  // You code goes here ...
+  // Your code goes here ...
 }
 
 /*
@@ -37,7 +37,7 @@ void Merge(std::vector<T>& array, size_t first_begin, size_t first_end, size_t s
  */
 template <typename T, typename Compare = CustomComparator<T>>
 void MergeSort(std::vector<T>& array, size_t begin, size_t end, Compare comp = Compare()) {
-  // You code goes here ...
+  // Your code goes here ...
 }
 
 template <typename T, typename Compare = CustomComparator<T>>

@@ -42,7 +42,7 @@
 template <typename InputIt1, typename InputIt2, typename OutputIt>
 void Merge(InputIt1 begin_first, InputIt1 end_first, InputIt2 begin_second, InputIt2 end_second,
            OutputIt begin_output) {
-    // You code goes here ...
+    // Your code goes here ...
 }
 
 /*
@@ -52,7 +52,7 @@ void Merge(InputIt1 begin_first, InputIt1 end_first, InputIt2 begin_second, Inpu
  */
 template <typename RandomIt>
 void Sort(RandomIt begin, RandomIt end) {
-    // You code goes here ...
+    // Your code goes here ...
 }
 
 template <typename T>
