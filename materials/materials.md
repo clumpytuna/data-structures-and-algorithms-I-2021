@@ -53,3 +53,9 @@
 ###### Lecture
 - [Lecture Notes](Lecture-7-BST-Notes.pdf)
 - [Lecture Video](https://drive.google.com/file/d/13WIoUHidWer1O1cpu78m4Gdnom91du-4/view?usp=sharing)
+
+
+#### 8. AVL Tree
+###### Lecture
+- [Lecture Notes](Lecture-8-AVL-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1C-b2Cvoxp_DhV6bpProp7Npr2YP-w_5l/view?usp=sharing)
