@@ -59,3 +59,11 @@
 ###### Lecture
 - [Lecture Notes](Lecture-8-AVL-Notes.pdf)
 - [Lecture Video](https://drive.google.com/file/d/1C-b2Cvoxp_DhV6bpProp7Npr2YP-w_5l/view?usp=sharing)
+
+#### 9. HashTable Chaining
+###### Lecture
+- [Lecture Notes](Lecture-9-HashTable-Chaining-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/10uU93ORo_WmzT6CQTsOhlcyfnG1MCrCK/view?usp=sharing)
+
+###### Practice
+- [Practice Video](https://drive.google.com/file/d/19bGqwtpL5T65LAFEUzibmqkAv8ikWmQu/view?usp=sharing)
