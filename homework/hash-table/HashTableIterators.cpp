@@ -8,7 +8,7 @@ public:
     /*
     * See https://en.cppreference.com/w/cpp/named_req/ForwardIterator.
     */
-    class Iterator : public std::iterator<std::forward_iterator_tag , std::pair<Key, T> {
+    class Iterator : public std::iterator<std::forward_iterator_tag , std::pair<Key, T> > {
     public:
         /*
          * Decide which constructors are needed to implement the interface.
