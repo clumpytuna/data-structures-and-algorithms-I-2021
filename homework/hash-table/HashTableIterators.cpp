@@ -1,14 +1,14 @@
 #include <functional>
 #include <utility>
 
-template <typename Key, typename T, typename Hash = std::hash<Key>, typename KeyEqual = std::equal_to<Key>>
+template <typename Key, typename T, typename Hash = std::hash<Key>,
+          typename KeyEqual = std::equal_to<Key>>
 class HashTable {
 public:
-
     /*
-    * See https://en.cppreference.com/w/cpp/named_req/ForwardIterator.
-    */
-    class Iterator : public std::iterator<std::forward_iterator_tag , std::pair<Key, T> > {
+     * See https://en.cppreference.com/w/cpp/named_req/ForwardIterator.
+     */
+    class Iterator : public std::iterator<std::forward_iterator_tag, std::pair<Key, T>> {
     public:
         /*
          * Decide which constructors are needed to implement the interface.
@@ -45,7 +45,8 @@ public:
     /*
      * See https://en.cppreference.com/w/cpp/container/unordered_map/unordered_map (1)
      *
-     * Constructs new container, uses bucket_count parameter as a minimal number of buckets to create.
+     * Constructs new container, uses bucket_count parameter as a minimal number of buckets to
+     * create.
      */
     explicit HashTable(size_t bucket_count);
 
@@ -77,16 +78,17 @@ public:
     /*
      * See https://en.cppreference.com/w/cpp/container/unordered_map/operator_at
      *
-     * Returns a reference to the value that is mapped to a key equivalent to key, performing an insertion if such key does not already exist.
+     * Returns a reference to the value that is mapped to a key equivalent to key, performing an
+     * insertion if such key does not already exist.
      */
     T& operator[](const Key& key);
 
     /*
      * See https://en.cppreference.com/w/cpp/container/unordered_map/insert
-     * 
+     *
      * Returns a bool value set to true if the insertion took place.
      */
-    std::pair<Iterator,bool> Insert(const Key& key, const T& value);
+    std::pair<Iterator, bool> Insert(const Key& key, const T& value);
 
     /*
      * See https://en.cppreference.com/w/cpp/container/unordered_map/erase
@@ -98,7 +100,7 @@ public:
 
     /*
      * See https://en.cppreference.com/w/cpp/container/unordered_map/find
-     * 
+     *
      * Finds an element with key.
      * Return iterator to an element with key. If no such element is found the
      * End() iterator is returned
