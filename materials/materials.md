@@ -67,3 +67,8 @@
 
 ###### Practice
 - [Practice Video](https://drive.google.com/file/d/19bGqwtpL5T65LAFEUzibmqkAv8ikWmQu/view?usp=sharing)
+
+#### 10. HashTable Open Addressing
+###### Lecture
+- [Lecture Notes](Lecture-10-HashTable-OpenAddressing-Notes.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1AeoXVtCO9X1P1in-2B5yRTgznBBLGTxg/view?usp=sharing)
