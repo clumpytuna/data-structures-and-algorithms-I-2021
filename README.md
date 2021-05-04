@@ -26,7 +26,7 @@ Welcome to the Data Structures and Algorithms I course!
 | [Quick Sort](https://contest.yandex.ru/contest/25678/standings/)      | 23:59 19.03        |         QuickSort     |          3             | 23:59 04.04                     |
 | [Merge Sort](https://contest.yandex.ru/contest/25985/problems)        | 23:59 26.03        |         MergeSort     |          4             | 23:59 11.04                     |
 | [Heap](https://contest.yandex.ru/contest/26200/enter/)                | 23:59 9.04         |         Heap          |          4             | 23:59 25.04                     |
-| [Binary Trees](https://admin.contest.yandex.ru/contests/26534/enter/) | 23:59 24.04        |          BST          |          4             | 23:59 3.05                      |
+| [Binary Trees](https://admin.contest.yandex.ru/contests/26534/enter/) | 23:59 24.04        |          BST          |          4             | 23:59 10.05                      |
 | [Hash Table Chaining](https://contest.yandex.ru/contest/26950/enter/) | 23:59 7.05         |        HashTable      |          3             | 23:59 21.05                      |
 
 #### Supporting Materials:
