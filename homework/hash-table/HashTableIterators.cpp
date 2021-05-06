@@ -27,9 +27,9 @@ public:
 
         Iterator operator++(int);
 
-        T& operator*();
+        std::pair<Key, T>& operator*();
 
-        T* operator->();
+        std::pair<Key, T>* operator->();
 
     private:
         // Your code goes here ...
