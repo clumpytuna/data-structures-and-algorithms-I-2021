@@ -72,3 +72,14 @@
 ###### Lecture
 - [Lecture Notes](Lecture-10-HashTable-OpenAddressing-Notes.pdf)
 - [Lecture Video](https://drive.google.com/file/d/1AeoXVtCO9X1P1in-2B5yRTgznBBLGTxg/view?usp=sharing)
+
+#### 11. Bloom Filter
+###### Lecture
+- [Lecture Notes](Lecture-11-Bloom-Filter.pdf)
+- [Lecture Video](https://drive.google.com/file/d/1KBNm7gWk4CXJoxMP2U_W-K6Fb4eIq--E/view?usp=sharing)
+###### Practice
+- [Practice Video](https://drive.google.com/file/d/1y-AzvmwZs7ORh49mD1zsvbuiz3QpG5La/view?usp=sharing)
+
+
+#### 12. Overview Lecture
+- [Lecture Video](https://drive.google.com/file/d/1_Ade4U4lnL862xZgJLOTGLHBNlyJSQVM/view?usp=sharing)
