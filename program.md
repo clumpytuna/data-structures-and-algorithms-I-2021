@@ -2,7 +2,7 @@
 
 #### Unit 1: Introduction
 1. Introduction. Big-O notation. Binary Search. 
-2. Linked Lists. Stack implementation using a linked list or an array. Keeping Minimum in a stack.
+2. Linked Lists. Stack implementation using a linked list or an array. Keeping minimum in a stack. Correct brackets sequence checking.
 
 #### Unit 2: Sorting
 3. Sortings. Lower bound for comparisons in the sort. Insertion sort. Bubble Sort. 
