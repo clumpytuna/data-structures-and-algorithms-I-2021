@@ -2,12 +2,12 @@
 
 #### Unit 1: Introduction
 1. Introduction. Big-O notation. Binary Search. 
-2. Linked Lists. Stack implementation using a linked list.
+2. Linked Lists. Stack implementation using a linked list. Keeping Minimum in a stack.
 
 #### Unit 2: Sorting
 3. Sortings. Lower bound for comparisons in the sort. Insertion sort. Bubble Sort. 
-4. Quick Sort. 
-5. Merge Sort. 
+4. Quick Sort. Master Theorem.
+5. Merge Sort. Finding number of inversions in an array.
 6. Binary Heap. Sift Up, Sift Down, Insert, GetMin, ExtractMin and DecreaseKey. Heap Sort
 
 #### Unit 3: Trees
